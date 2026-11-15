@@ -46,6 +46,7 @@
 - [AllTrails](https://www.alltrails.com/canada) – Hiking and biking trail maps.
 - [XE Currency](https://www.xe.com/) – Currency conversion for travelers.
 - [WeatherCAN](https://weather.gc.ca/) – Official Environment Canada weather forecasts.
+- [No Stairs Please](https://nostairsplease.com/) – Searchable directory of live-music venues across British Columbia and the US with route planning and accessibility details.
 
 ## 📚 Travel Guides & Blogs
 
